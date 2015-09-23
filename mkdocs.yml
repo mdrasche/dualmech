@@ -1,0 +1,17 @@
+site_name: Dual Mechanisms of Cognitive Control
+
+pages:
+- Home: index.md
+- About: about.md
+- People: people.md
+- Publications: publications.md
+- Projects: 
+    - Sternberg: sternberg.md
+    - AXCPT: axcpt.md
+    - Stroop: stroop.md
+    - Task Switching: task_switching.md
+
+
+markdown_extensions:
+    - toc:
+        permalink: True
