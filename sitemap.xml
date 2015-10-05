@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2015-09-23</lastmod>
+     <lastmod>2015-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
      <loc>None/about/</loc>
-     <lastmod>2015-09-23</lastmod>
+     <lastmod>2015-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
      <loc>None/people/</loc>
-     <lastmod>2015-09-23</lastmod>
+     <lastmod>2015-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
      <loc>None/publications/</loc>
-     <lastmod>2015-09-23</lastmod>
+     <lastmod>2015-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -37,25 +37,57 @@
         
     <url>
      <loc>None/sternberg/</loc>
-     <lastmod>2015-09-23</lastmod>
+     <lastmod>2015-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/axcpt/</loc>
-     <lastmod>2015-09-23</lastmod>
+     <lastmod>2015-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/stroop/</loc>
-     <lastmod>2015-09-23</lastmod>
+     <lastmod>2015-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/task_switching/</loc>
-     <lastmod>2015-09-23</lastmod>
+     <lastmod>2015-10-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/tasks/</loc>
+     <lastmod>2015-10-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/task_downloads/</loc>
+     <lastmod>2015-10-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/rcode/</loc>
+     <lastmod>2015-10-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/interactive/</loc>
+     <lastmod>2015-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
