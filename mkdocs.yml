@@ -1,4 +1,4 @@
-site_name: Dual Mechanisms of Cognitive Control
+site_name: DMCC
 
 pages:
 - Home: index.md
@@ -10,6 +10,12 @@ pages:
     - AXCPT: axcpt.md
     - Stroop: stroop.md
     - Task Switching: task_switching.md
+- Tasks:
+    - About: tasks.md
+    - Download: task_downloads.md
+- Analysis:
+    - R Code Downloads: rcode.md
+    - Interactive: interactive.md
 
 
 markdown_extensions:
